@@ -1,0 +1,8 @@
+site_name: My Docs
+
+# ---–---–---–---–---–---–---–---–---–---–---–---–---–---–---–---–---–---–---–--
+theme:
+  # https://squidfunk.github.io/mkdocs-material/getting-started/#tabs
+  name: 'material'
+  feature:
+    tabs: true
