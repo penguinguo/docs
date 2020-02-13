@@ -1,0 +1,59 @@
+site_name: hampussandberg.github.io
+site_url: https://hampussandberg.github.io
+
+repo_name: Github
+repo_url: https://github.com/hampussandberg/docs
+
+# ------------------------------------------------------------------------------
+theme:
+  # https://squidfunk.github.io/mkdocs-material/getting-started/#tabs
+  name: 'material'
+  custom_dir: 'theme'
+  palette:
+    primary: 'grey'
+    accent: 'orange'
+  feature:
+    tabs: true
+
+extra_css:
+  - 'stylesheets/extra.css'
+  - https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
+
+# ---–---–---–---–---–---–---–---–---–---–---–---–---–---–---–---–---–---–---–--
+# https://squidfunk.github.io/mkdocs-material/extensions/pymdown/
+markdown_extensions:  
+  - markdown.extensions.attr_list
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite
+  - markdown.extensions.def_list
+  - pymdownx.arithmatex
+  - pymdownx.inlinehilite
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+  - pymdownx.progressbar
+  - pymdownx.magiclink
+  - pymdownx.details
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
+# ------------------------------------------------------------------------------
+nav:
+  ###################################
+  - Home:
+    - Welcome: index.md
+    - Example Markdown: example-markdown.md
+  ###################################
+  - Electronics:
+    - Overview: electronics/overview.md
+    - HexConnect: electronics/hex-connect/overview.md
+  ###################################
+  - 3D Printing:
+    - Overview: 3d-printing/overview.md
+  ###################################
+  - Cooking & Baking:
+    - Overview: cooking-baking/overview.md
+  ###################################
