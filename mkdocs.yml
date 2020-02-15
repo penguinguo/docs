@@ -49,6 +49,7 @@ nav:
   ###################################
   - Electronics:
     - Overview: electronics/overview.md
+    - KiCad: electronics/kicad/index.md
     - HexConnect: electronics/hex-connect/overview.md
     - ESP Boards:
       - ESP8266 LED: electronics/esp-boards/esp8266-led-controller-board/index.md
