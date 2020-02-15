@@ -50,6 +50,8 @@ nav:
   - Electronics:
     - Overview: electronics/overview.md
     - HexConnect: electronics/hex-connect/overview.md
+    - ESP Boards:
+      - ESP8266 LED: electronics/esp-boards/esp8266-led-controller-board/index.md
   ###################################
   - 3D Printing:
     - Overview: 3d-printing/overview.md
