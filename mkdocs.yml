@@ -54,6 +54,8 @@ nav:
     - ESP Boards:
       - ESP8266 LED: electronics/esp-boards/esp8266-led-controller-board/index.md
     - Radiation Detector: electronics/radiation-detector/index.md
+    - Teardowns:
+      - Kreyos Smart Watch: electronics/teardowns/kreyos-smart-watch/index.md
   ###################################
   - 3D Printing:
     - Overview: 3d-printing/overview.md
