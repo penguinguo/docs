@@ -9,7 +9,7 @@ The rating is based on how similar it tastes to regular cow milk.
 
 | Front | Nutrition facts |
 |:-------------------:|:----------------:|
-| [![](http://via.placeholder.com/577x1142){style="width:40%"}](http://via.placeholder.com/577x1142) | [![](milk_nutrition.jpg){style="width:40%"}](milk_nutrition.jpg) |
+| [![](milk_front.jpg){style="width:40%"}](milk_front.jpg) | [![](milk_nutrition.jpg){style="width:40%"}](milk_nutrition.jpg) |
 
 
 ### Nutrition facts
