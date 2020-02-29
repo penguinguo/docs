@@ -39,7 +39,7 @@ The rating is based on how similar it tastes to regular cow milk.
 | [![](spelt_front.jpg){style="width:40%"}](spelt_front.jpg) | [![](spelt_nutrition.jpg){style="width:40%"}](spelt_nutrition.jpg) |
 
 ### Ingredients
-- Water, spelt flour (15%), sunflower oil, salt
+- Water, spelt flour 15%, sunflower oil, salt
 
 
 ### Nutrition facts
@@ -55,13 +55,13 @@ The rating is based on how similar it tastes to regular cow milk.
 
 <!-- ----------------------------------------------------------------------- -->
 ---
-## Almond (with added sugar)
-- Rating: ⭐️⭐️
+## Almond (intense)
+- Rating: ⭐️⭐️⭐️
 - Product tested: *Bio village - Lait Amande Intense*
     - -> Intense Almond Milk
 - Verdict:
     - Strong almond flavor (probably due to "intense")
-    - Feels dry to drink.
+    - No creaminess.
     - Nutritionally similar to regular milk.
 
 | Front | Nutrition facts |
@@ -69,7 +69,7 @@ The rating is based on how similar it tastes to regular cow milk.
 | [![](almond_front.jpg){style="width:40%"}](almond_front.jpg) | [![](almond_nutrition.jpg){style="width:40%"}](almond_nutrition.jpg) |
 
 ### Ingredients
-- Water, almond puree (7%), cane sugar, natural flavor, thickener: carob seed flour
+- Water, almond puree 7%, cane sugar, natural flavor, thickener: carob seed flour
 
 
 ### Nutrition facts
@@ -82,4 +82,35 @@ The rating is based on how similar it tastes to regular cow milk.
 | Protein | 1.7 g |
 | Salt | 0.02 g |
 | Calcium | - |
+
+<!-- ----------------------------------------------------------------------- -->
+---
+## Coconut (without added sugar)
+- Rating: ⭐️
+- Product tested: *Bjorg - Coco - Sans Sucres*
+    - -> Coconut without sugar
+- Verdict:
+    - Weak flavor
+    - No creaminess.
+    - A lot of additives.
+    - Low in nutrition.
+
+| Front | Nutrition facts |
+|:-------------------:|:----------------:|
+| [![](coconut_front.jpg){style="width:40%"}](coconut_front.jpg) | [![](coconut_nutrion.jpg){style="width:40%"}](coconut_nutrion.jpg) |
+
+### Ingredients
+- Water, coconut milk 8% (coconut 4.8%, water, thickener: guar gum), rice starch, Algae Lithothamnium calcareum 0.3%, stabilizers: guar gum, xanthan gum, carrageenans; natural coconut flavor, sea salt
+
+
+### Nutrition facts
+| Value per | 100 ml |
+|:-------------------|----------------:|
+| Energy | 84 kJ (20 kcal) |
+| Total fat<br>Saturated fat | 1.5 g<br>< 1.2 g |
+| Total Carbohydrates<br>Sugar | 1.7 g<br><0.5 g |
+| Fiber | <0.5 g |
+| Protein | <0.5 g |
+| Salt | 0.1 g |
+| Calcium | 100 mg |
 
