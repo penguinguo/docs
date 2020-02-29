@@ -29,6 +29,10 @@ The rating is based on how similar it tastes to regular cow milk.
 - Rating: ⭐️⭐️⭐️⭐️
 - Product tested: *Bio village - Boisson Épeautre, sans sucres ajoutés*
     - -> Spelt drink without added sugar
+- Verdict:
+    - Good flavor, has some creaminess to it.
+    - A bit too sweet.
+    - Low in nutrion, mostly carbohydrates.
 
 | Front | Nutrition facts |
 |:-------------------:|:----------------:|
@@ -48,3 +52,34 @@ The rating is based on how similar it tastes to regular cow milk.
 | Protein | < 0.5 g |
 | Salt | 0.08 g |
 | Calcium | - |
+
+<!-- ----------------------------------------------------------------------- -->
+---
+## Almond (with added sugar)
+- Rating: ⭐️⭐️
+- Product tested: *Bio village - Lait Amande Intense*
+    - -> Intense Almond Milk
+- Verdict:
+    - Strong almond flavor (probably due to "intense")
+    - Feels dry to drink.
+    - Nutritionally similar to regular milk.
+
+| Front | Nutrition facts |
+|:-------------------:|:----------------:|
+| [![](almond_front.jpg){style="width:40%"}](almond_front.jpg) | [![](almond_nutrition.jpg){style="width:40%"}](almond_nutrition.jpg) |
+
+### Ingredients
+- Water, almond puree (7%), cane sugar, natural flavor, thickener: carob seed flour
+
+
+### Nutrition facts
+| Value per | 100 ml |
+|:-------------------|----------------:|
+| Energy | 264 kJ (63 kcal) |
+| Total fat<br>Saturated fat | 4.1 g<br>< 0.4 g |
+| Total Carbohydrates<br>Sugar | 4.9 g<br>4.2 g |
+| Fiber | <0.5 g |
+| Protein | 1.7 g |
+| Salt | 0.02 g |
+| Calcium | - |
+
