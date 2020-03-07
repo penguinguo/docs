@@ -25,14 +25,44 @@ The rating is based on how similar it tastes to regular cow milk.
 
 <!-- ----------------------------------------------------------------------- -->
 ---
-## Spelt
+## Soy
 - Rating: ⭐️⭐️⭐️⭐️
+- Product tested: *Bjorg - Soja Léger*
+    - -> Light Soy
+- Verdict:
+    - Good level of sweetness
+    - Not too strong soy flavor (which I personally don't enjoy)
+    - Nutritionally similar to milk (light version)
+
+| Front | Nutrition facts |
+|:-------------------:|:----------------:|
+| [![](soy_front.jpg){style="width:40%"}](soy_front.jpg) | [![](soy_nutrition.jpg){style="width:40%"}](soy_nutrition.jpg) |
+
+### Ingredients
+- Tonyu (water, shelled soy beans without GMO 4.3%), water, cane sugar, agave inulin, lithothamnium calcareum seaweed 0.4%, natural flavor, thickener: gellan gum
+
+
+### Nutrition facts
+| Value per | 100 ml |
+|:-------------------|----------------:|
+| Energy | 163 kJ (39 kcal) |
+| Total fat<br>Saturated fat | 1.3 g<br>< 0.3 g |
+| Total Carbohydrates<br>Sugar | 4.3 g<br>3.6 g |
+| Fiber | 0.7 g |
+| Protein | 2.1 g |
+| Salt | 0.01 g |
+| Calcium | 120 mg |
+
+<!-- ----------------------------------------------------------------------- -->
+---
+## Spelt
+- Rating: ⭐️⭐️⭐️
 - Product tested: *Bio village - Boisson Épeautre, sans sucres ajoutés*
     - -> Spelt drink without added sugar
 - Verdict:
-    - Good flavor, has some creaminess to it.
-    - A bit too sweet.
-    - Low in nutrion, mostly carbohydrates.
+    - Good flavor, has some creaminess to it
+    - A bit too sweet
+    - Low in nutrion, mostly carbohydrates
 
 | Front | Nutrition facts |
 |:-------------------:|:----------------:|
@@ -61,8 +91,8 @@ The rating is based on how similar it tastes to regular cow milk.
     - -> Intense Almond Milk
 - Verdict:
     - Strong almond flavor (probably due to "intense")
-    - No creaminess.
-    - Nutritionally similar to regular milk.
+    - No creaminess
+    - Nutritionally similar to regular milk (except for lack of calcium)
 
 | Front | Nutrition facts |
 |:-------------------:|:----------------:|
@@ -91,9 +121,9 @@ The rating is based on how similar it tastes to regular cow milk.
     - -> Coconut without sugar
 - Verdict:
     - Weak flavor
-    - No creaminess.
-    - A lot of additives.
-    - Low in nutrition.
+    - No creaminess
+    - A lot of additives
+    - Low in nutrition
 
 | Front | Nutrition facts |
 |:-------------------:|:----------------:|
