@@ -53,7 +53,7 @@ nav:
     - HexConnect: electronics/hex-connect/overview.md
     - ESP Boards:
       - ESP8266 LED: electronics/esp-boards/esp8266-led-controller-board/index.md
-      - ESP8266 Switches: electronics/esp-boards/esp8266-cherry-mx-board/index.md
+      - ESP8266 Cherry MX: electronics/esp-boards/esp8266-cherry-mx-board/index.md
     - Radiation Detector: electronics/radiation-detector/index.md
     - Teardowns:
       - Kreyos Smart Watch: electronics/teardowns/kreyos-smart-watch/index.md
