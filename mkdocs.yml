@@ -12,8 +12,8 @@ theme:
   palette:
     primary: 'grey'
     accent: 'orange'
-  feature:
-    tabs: true
+  features:
+    - tabs
 
 extra_css:
   - 'stylesheets/extra.css'
@@ -61,6 +61,10 @@ nav:
   ###################################
   - 3D Printing:
     - Overview: 3d-printing/overview.md
+  ###################################
+  - Photography:
+    - Overview: photography/overview.md
+    - Laowa 25mm Macro: photography/laowa-25mm-macro/index.md
   ###################################
   - Cooking & Baking:
     - Overview: cooking-baking/overview.md
