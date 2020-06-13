@@ -1,6 +1,16 @@
 # Laowa 25mm f/2.8 2.5-5X Ultra Macro
 TODO
 
+## Example Photos
+
+| Description | Photo |
+|:---:|---|
+| Yellow leafhopper. | [![](yellow-leafhopper.jpg){style="width:50%"}](yellow-leafhopper.jpg) |
+| Aphids on a plant. Handheld focus stack. | [![](aphid-stack.jpg){style="width:50%"}](aphid-stack.jpg) |
+| Violet pansy flower. | [![](violet-pansy.jpg){style="width:50%"}](violet-pansy.jpg) |
+| ATtiny45 chip die. Black lines on the ruler are 0.5 mm apart. | [![](attiny45.jpg){style="width:50%"}](attiny45.jpg) |
+
+
 ## Apertures
 Photo is of 5 surface mount capacitors of sizes 0402, 0603, 0805, 1206 and 1210.
 
