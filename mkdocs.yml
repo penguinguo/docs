@@ -60,6 +60,7 @@ nav:
     - Teardowns:
       - Kreyos Smart Watch: electronics/teardowns/kreyos-smart-watch/index.md
     - 5x5 LED Matrix: electronics/5x5-led-matrix/index.md
+    - Xilinx Zynq: electronics/xilinx-zynq/index.md
   ###################################
   - 3D Printing:
     - Overview: 3d-printing/overview.md
