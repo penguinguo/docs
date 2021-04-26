@@ -15,6 +15,7 @@ This page is a collection of notes and how-to guides for the [Xilinx Zynq <i cla
     - Docker: https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/84508673/Docker+on+Zynq+Ultrascale+Xilinx+Yocto+Flow
     - Python in Yocto: https://hub.mender.io/t/how-to-work-with-python-applications-and-modules-in-yocto-project/1135
     - Run script at startup (PetaLinux): https://www.xilinx.com/support/answers/55998.html
+    - PL programming from Linux: https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18841847/Solution+ZynqMP+PL+Programming
 
 
 
